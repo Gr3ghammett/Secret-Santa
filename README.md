@@ -6,9 +6,11 @@ How to use:
 From your OS command line, just run main.py from python command line.
 
 Linux example (with python3, within the same folder):
+
   python3 main.py
 
 Windows and MacOS example (after you have navigated to where you have the file saved):
+
   python main.py
 
 Or if you have an application that runs python scripts itself, those can be utilized as well.
